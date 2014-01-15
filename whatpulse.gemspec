@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["denolfe@gmail.com"]
   spec.summary       = %q{Whatpulse API Wrapper}
   spec.description   = %q{Wrapper for the Whatpulse API. Allows retrieval of key and click counts}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/denolfe/whatpulse"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
