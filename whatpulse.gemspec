@@ -6,7 +6,7 @@ require 'whatpulse/version'
 Gem::Specification.new do |spec|
   spec.name          = "whatpulse"
   spec.version       = Whatpulse::VERSION
-  spec.authors       = ["Elliot"]
+  spec.authors       = ["Elliot DeNolf"]
   spec.email         = ["denolfe@gmail.com"]
   spec.summary       = %q{Whatpulse API Wrapper}
   spec.description   = %q{Wrapper for the Whatpulse API. Allows retrieval of key and click counts}
