@@ -1,6 +1,6 @@
 # Whatpulse
 
-TODO: Write a gem description
+Wrapper for the Whatpulse API.  Allows retrieval of key and click counts.
 
 ## Installation
 
@@ -18,7 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+wp = Whatpulse::Client.new 'username'
+puts wp.getUserData
+```
 
 ## Contributing
 
